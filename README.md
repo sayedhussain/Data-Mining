@@ -1,2 +1,2 @@
 # Data-Mining
-This repository contains all my data mining projects and assignements
+This repository contains all my data mining projects and assignments
